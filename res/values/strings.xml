@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Test programm</string>
+    <string name="email">E-mail address:</string>
+    <string name="pass">Your password:</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_hello">Hello</string>
+    <string name="title_btn_enter">Enter</string>
+
+</resources>
