@@ -1,5 +1,5 @@
 /** Automatically generated file. DO NOT MODIFY */
-package com.samples.helloworld;
+package diego.laeda.helloworld;
 
 public final class BuildConfig {
     public final static boolean DEBUG = true;
